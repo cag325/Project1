@@ -11,5 +11,5 @@ The hospital data was similarly categorized in two groups for the purpose of ana
 
 # Results Summary 
 Beginning with the analysis of the efffects of education on Covid-19 deaths counties were categorized based on the percent of the population with a college education. "High Education" counties were those with a population makeup of 25% or greater with a college education while those that did not satisfy the criteria were termed "Lower Education" counties.
-[image](https://github.com/cag325/Project1/assets/144633699/6297e015-8b7a-483a-a41f-c8c1ae10ad36)
+![image](https://github.com/cag325/Project1/assets/144633699/6297e015-8b7a-483a-a41f-c8c1ae10ad36)
 
