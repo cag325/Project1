@@ -31,5 +31,13 @@ Similar to the previous analysis a slightly positive slope was generated from ou
 
 #### Conclusion 2: The hostpial presence prevalence of a county does not affect the proportion of Covid-19 fatalities in that county.
 
+Our final analysis was conducted to investigate any potential interaction effects between our two established factors: education classification and hospital presence. For those unfamilar with the concept of interaction effects it is the phenomena in which the presence of two variables at the same instance induce an elevated effect on the measured variable. In our case, an example of a strong interaction effect would be observed if Covid fatalities drastically increased in county populations that fit the "Lower Education" classification and "Low Hospital Presence" classification. The interaction analysis is depicted below where the "x3" term represents the interaction parameter. Based on the calculated p-value of 0.501 we observe no profound interaction relationship between the two factors.
+
+![image](https://github.com/cag325/Project1/assets/144633699/680ef73b-2a3a-482a-93d7-e0039f1cf34d)
+
+#### Conclusion 3: There does not exist a significant extent of interaction between the factors of education classification and hospital presence that promotes an elevated difference in Covid-19 outcomes when comparing counties.
+
+## Final Conclusion: As scientists we are obligated to report the works in which the results conflict with our hypotheses and not only the results that support them. We began this research hypothesizing that education differences between counties would contributed to a significant difference in Covid-19 mortalities amongst the counties. However, our statistical analysis refuted our claim and suggested that education differences do not yield a difference in Covid-19 deaths. Similarly, we hypothesized that differences in the extent of hospital presences would yield differences in Covid-19 mortalities when comparing counties. Yet again, our inital prediction was incorrect as the statistical analysis does not support any such relationship. Our final analysis investigating potential interaction effects amongst the two factors once more contradicted our hypothesis by demonstrating a insignificant interaction effect on Covid deaths. In totality, the results refuted the entirety of our hypothesis but still provide insight into the minimal effects of these particular factors on disease outcomes. We do acknowledge that future work exists to study the influence of these factors under the application of alternative definitions, meaning that maybe an important relationship does exist but only in the context of different definitions for the educational classifications and hospital presence.  
+
 
 
