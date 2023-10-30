@@ -13,7 +13,8 @@ The hospital data was similarly categorized into two groups for the purpose of a
 # Results Summary 
 Beginning with the analysis of the effects of education on Covid-19 deaths, counties were categorized based on the percent of the population with a college education. "High Education" counties were those with a population makeup of 25% or greater with a college education while those that did not satisfy the criteria were termed "Low Education" counties. A scatter plot of the data with a fit generated using linear regression is seen below.
 
-![image](https://github.com/cag325/Project1/assets/144633699/6297e015-8b7a-483a-a41f-c8c1ae10ad36)
+![image](https://github.com/cag325/Project1/assets/144633699/f43327b0-24f2-4cd8-826c-9052bd249f97)
+
 
 We observe a small positive slope in our linear fit potentially suggesting that "High Education" counties have surprisingly worse outcomes following Covid-19 infection than "Low Education" counties. However, further investigation into the statistical significance of this relationship demonstrates that this difference is non-existent (calculated p-value of 0.477). This result deviated from prediction given the expectation that education would promote better health practices and subsequently better outcomes following infection. 
 
