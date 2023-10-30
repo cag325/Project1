@@ -24,7 +24,8 @@ We observe a small positive slope in our linear fit potentially suggesting that 
 
 The analysis of the effects of hospital presence per county on Covid-19 fatalities was conducted next. As previously stated "High Hospital Presence" counties were those in which at least 500 general hospital beds in total were present in hospitals in the county. Therefore, "Low Hospital Presence" counties were those in which less than 500 general hospital beds existed in the county. A scatter plot of the data with a fit generated using linear regression is seen below.
 
-![image](https://github.com/cag325/Project1/assets/144633699/7a260a6c-c477-4c2c-ab3d-4a6afa1d91bf)
+![image](https://github.com/cag325/Project1/assets/144633699/a07d350d-09a6-4347-ad05-2276df9b14dd)
+
 
 Like the previous analysis a small positive slope was generated from our linear regression analysis potentially suggestive that "High Hospital Presence" counties have worse Covid-19 outcomes (i.e., more death). However, again the statistical significance of this relationship proved to be futile (calculated p-value of 0.991). Again, this served to contradict our hypothesis that a greater number of hospital beds would lead to better overall health outcomes as compared to counties with less hospital beds. 
 
