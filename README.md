@@ -41,6 +41,21 @@ Our final analysis was conducted to investigate any potential interaction effect
 There does not exist a significant extent of interaction between the factors of education classification and hospital presence that promotes an elevated difference in Covid-19 outcomes when comparing counties.
 
 #### Conclusion: As scientists we are obligated to report the works in which the results conflict with our hypotheses and not only the results that support them. We began this research hypothesizing that education differences between counties would contribute to a significant difference in Covid-19 mortalities amongst the counties. However, our statistical analysis refuted our claim and suggested that education differences do not yield a substantial difference in Covid-19 deaths. Similarly, we hypothesized that differences in the extent of hospital presences would yield differences in Covid-19 mortalities when comparing counties. Yet again, our initial prediction was incorrect as the statistical analysis does not support any such relationship. Our final analysis investigating potential interaction effects amongst the two factors once more contradicted our hypothesis by demonstrating an insignificant interaction effect on Covid deaths. In totality, the results refuted the entirety of our hypothesis but provided insight into the minimal effects of these factors on disease outcomes. We do acknowledge that future work exists to study the influence of these factors under the application of alternative definitions, meaning that maybe an important relationship does exist but only in the context of different definitions for the educational classifications and hospital presences.
+
+#### Supplementary Information (SI)
+Plots of raw data prior to reconstruction for analysis 
+
+![image](https://github.com/cag325/Project1/assets/144633699/a0fd99f4-e3f2-46d5-86de-2fcb15a31e02)
+
+![image](https://github.com/cag325/Project1/assets/144633699/05580be1-20e2-4fc1-ae88-d0750e648fe1)
+
+![image](https://github.com/cag325/Project1/assets/144633699/8b445384-16c4-4538-bdcb-2bdb549a9e5d)
+
+![image](https://github.com/cag325/Project1/assets/144633699/b3ff6544-6ac6-4387-8ca4-40f2a82c737b)
+
+
+
+
   
 
 
